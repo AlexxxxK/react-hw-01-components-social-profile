@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AlexxxxK/react-hw-01-components-social-profile/static/css/main.ece97c3a.chunk.css",
-    "main.js": "/AlexxxxK/react-hw-01-components-social-profile/static/js/main.d841b70c.chunk.js",
-    "main.js.map": "/AlexxxxK/react-hw-01-components-social-profile/static/js/main.d841b70c.chunk.js.map",
-    "runtime~main.js": "/AlexxxxK/react-hw-01-components-social-profile/static/js/runtime~main.77528131.js",
-    "runtime~main.js.map": "/AlexxxxK/react-hw-01-components-social-profile/static/js/runtime~main.77528131.js.map",
-    "static/js/2.53febdc6.chunk.js": "/AlexxxxK/react-hw-01-components-social-profile/static/js/2.53febdc6.chunk.js",
-    "static/js/2.53febdc6.chunk.js.map": "/AlexxxxK/react-hw-01-components-social-profile/static/js/2.53febdc6.chunk.js.map",
-    "index.html": "/AlexxxxK/react-hw-01-components-social-profile/index.html",
-    "precache-manifest.ffd81aba368e22d9cd79ca41735d9aac.js": "/AlexxxxK/react-hw-01-components-social-profile/precache-manifest.ffd81aba368e22d9cd79ca41735d9aac.js",
-    "service-worker.js": "/AlexxxxK/react-hw-01-components-social-profile/service-worker.js",
-    "static/css/main.ece97c3a.chunk.css.map": "/AlexxxxK/react-hw-01-components-social-profile/static/css/main.ece97c3a.chunk.css.map"
+    "main.css": "/react-hw-01-components-social-profile/static/css/main.ece97c3a.chunk.css",
+    "main.js": "/react-hw-01-components-social-profile/static/js/main.d841b70c.chunk.js",
+    "main.js.map": "/react-hw-01-components-social-profile/static/js/main.d841b70c.chunk.js.map",
+    "runtime~main.js": "/react-hw-01-components-social-profile/static/js/runtime~main.f825fbd2.js",
+    "runtime~main.js.map": "/react-hw-01-components-social-profile/static/js/runtime~main.f825fbd2.js.map",
+    "static/js/2.53febdc6.chunk.js": "/react-hw-01-components-social-profile/static/js/2.53febdc6.chunk.js",
+    "static/js/2.53febdc6.chunk.js.map": "/react-hw-01-components-social-profile/static/js/2.53febdc6.chunk.js.map",
+    "index.html": "/react-hw-01-components-social-profile/index.html",
+    "precache-manifest.d753fc3234b9bb6ee221e47537877de1.js": "/react-hw-01-components-social-profile/precache-manifest.d753fc3234b9bb6ee221e47537877de1.js",
+    "service-worker.js": "/react-hw-01-components-social-profile/service-worker.js",
+    "static/css/main.ece97c3a.chunk.css.map": "/react-hw-01-components-social-profile/static/css/main.ece97c3a.chunk.css.map"
   }
 }
